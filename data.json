@@ -1,1 +1,8 @@
-
+{
+    "123456789012345678": {
+        "username": "ExampleUser",
+        "code": "ABC123",
+        "plan": "1_week",
+        "expiration_date": "2025-01-01T00:00:00"
+    }
+}
